@@ -1,0 +1,4 @@
+Number of processors,Exercise 2 sum time (s),Exercise 2 sum speedup,Exercise 3 Pi time (s),Exercise 3 Pi speedup
+1,0.022621,1.0,2.654861,1.0
+2,0.01145,1.9756331877729256,1.415602,1.875428969441976
+4,0.006637,3.4083170106976044,0.970437,2.73573761099381
